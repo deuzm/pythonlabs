@@ -4,6 +4,7 @@
 Progress:
 * Basic project environment added (flake8, pylintrc)
 * Created Dockerfile
+* Pushed image to [Docker hub](https://hub.docker.com/repository/docker/deuzm/pyimage_repository/general)
 * Added python script
 -------
 ## Some useful links I used to prepare for Lab 1(v 0.0.1)
